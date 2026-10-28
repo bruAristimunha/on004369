@@ -19,7 +19,9 @@
     "Description": "sex of the participant",
     "Levels": {
       "M": "male",
-      "F": "female"
+      "F": "female",
+      "f": "female",
+      "m": "male"
     }
   },
   "age": {
